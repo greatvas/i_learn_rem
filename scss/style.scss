@@ -1,0 +1,14 @@
+// Reset all the standart styles
+@import "/scss/reset";
+
+// Styles for variables
+@import "/scss/vars";
+
+// Styles for the main page
+@import "/scss/page-main";
+
+// Styles for the px page
+@import "/scss/page-px";
+
+// Styles for the rem page
+@import "/scss/page-rem";
